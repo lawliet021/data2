@@ -198,18 +198,22 @@
       ]
     }
   },
-  "NonTechnical": { 
-    "Report Fifa": {
-      "name": "Report Fifa",
+  "NonTechnical": {
+    "Box Cricket": {
+      "name": "Box Cricket",
       "subline": "Game",
-      "desc": [],
+      "desc": [
+        "Cricket match with 5 players per team will be conducted in a box shaped field with underarm bowling and the fixtures will be based on the number of teams registered."
+      ],
       "contents": [
         {
           "Rules": [
-            "2 players per team (2 v 2).",
-            "Time : 6 minutes per half.",
+            "5 players per team +1",
+            "Number of overs : 3",
+            "The umpire’s decision is final",
+            "Refund of the registration fee will not be entertained strictly.",
             "Fixtures based on number of entries.",
-            "Refund of the registration fee will not be entertained strictly."
+            "The organizing committee has full authority to revise the rules of the game."
           ]
         },
         {
@@ -217,7 +221,8 @@
         },
         {
           "Incharge": [
-            "Kailash - 9790872193"
+            "Nithish - 7305518114",
+            "saravanan - 7871935518"
           ]
         },
         {
