@@ -219,9 +219,7 @@
         {
           "Rounds": []
         },
-        {
-          "Entry fee": ["250"]
-        },
+        
         {
           "Incharge": [
             "Nithish - 7305518114",
@@ -269,19 +267,17 @@
         }
       ]
     },
-    "Clash of Resilience": {
-      "name": "Clash of Resilience",
+    "Fifa": {
+      "name": "Fifa",
       "subline": "Game",
       "desc": [],
       "contents": [
         {
           "Rules": [
-            "A team must contain 5-6 members.",
-            "All the members of the team must be included in the enacting.",
-            "Every team gets around 4-5 minutes of enacting time.",
-            "No preparation time will be given.",
-            "No vulgarity will be entertained.",
-            "Judge’s decision will be final."
+            "2 players per team (2 v 2)",
+            "Time : 6 minutes per half ",
+            "Fixtures based on number of entries.",
+            "Refund of the registration fee will not be entertained strictly"                      
           ]
         },
         {
@@ -289,26 +285,28 @@
         },
         {
           "Incharge": [
-            "Shiva Harini - 8838674137"
+            "Naveen ty - 7397 292 496"
           ]
         },
         {
           "Venue": [
-            "HiTech Hall, TRP Auditorium"
+            "HI TECH Hall"
           ]
         }
       ]
     },
-    "Job wreck": {
-      "name": "Job wreck",
+    "First Blood": {
+      "name": "First Blood",
       "subline": "Game",
       "desc": [],
       "contents": [
         {
           "Rules": [
-            "The participants will have 2 minutes time for preparation and 3 minutes on stage.",
-            "They will be given 2 minutes to convince the judge as to why they should get the job.",
-            "Jobs on which they have to perform will be given on spot(Engineering,Civil service,etc)."
+            "2 players per team",
+            "Matches will be in knock out",
+            "Elimination will based on teams getting first blood",
+            "No vulgarity allowed during matches ",
+            "Refree decisions will be final"
           ]
         },
         {
@@ -316,40 +314,29 @@
         },
         {
           "Incharge": [
-            "Sathya - 9360365458"
+            ""
           ]
         },
         {
           "Venue": [
-            "LH1202, Second Floor, Main Block"
+            ""
           ]
         }
       ]
     },
-    "Technical Maze": {
-      "name": "Technical Maze",
+    "Treasure hunt": {
+      "name": "Treasure hunt",
       "subline": "skill",
-      "desc": [
-        "Games will be played on Real boards so players can bring his/her own board.",
-        "The players will be paired randomly.",
-        "Time for initial rounds will be 30 minutes.",
-        "clock time might be the same or little longer for subsequent rounds.",
-        "A fixed number of rounds is played and at each round people are matched against others who have scored the same number of points."
-      ],
+      "desc": [ ],
       "contents": [
         {
           "Rules": [
-            "Must be able to do the following:",
-            "Properly move all of the chess pieces.",
-            "Understand pawn promotion.",
-            "Understand rules for “advanced” moves: Castling and en passant capture (note: please ask the organizer in case of any confusion about en passant rule )",
-            "Understand Check and the ways to get out of check (move, block, capture)",
-            "Understand Checkmate",
-            "Understand the “touch-move” rule",
-            "Understand 50 moves draw rule i.e. the game can be claimed drawn after 50 moves if there are no pawn moves or no captures.",
-            "Understand 3 fold repetition rule. the game can be claimed drawn if the exact same position is repeated thrice.",
-            "No outside assistance during games is allowed.",
-            "In case of any confusion/disputes talk to the tournament organizers."
+            "A team must contain 3 members",
+            "The hints will be placed in various locations around the campus",
+            "Hints will be given through a QR code which you can scan using your mobiles",
+            "The timers will get started once you scan the first QR code in the hierarchy",
+            "The QR scan code gives the hint to proceed for the next QR scan",
+            "Winners will be based on the minimal finishing time"
           ]
         },
         {
@@ -357,16 +344,227 @@
         },
         {
           "Incharge": [
-            "Joshua - 9787428467"
+            "gopinath - 88385 09630",
+            "Gowtham - 6381480569"
           ]
         },
         {
           "Venue": [
-            "Internet Technology LAB, Second Floor, Main Block"
+            "OAT"
+          ]
+        }
+      ]
+    },
+    "Start Music": {
+      "name": "Start Music",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "3 participants per team",
+            "Elimination will be based on round by round",
+            "Totally 3 rounds",
+            "Judges decision will be final",
+            "No vulnerability during the entire event"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "Yamini - 8056106779",
+            "Ananya - 6369 019 840",
+            "Lakshmi priya - 82480 46872"
+          ]
+        },
+        {
+          "Venue": [
+            "Trp"
+          ]
+        }
+      ]
+    },
+    "Adapt tune": {
+      "name": "Adapt tune",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "Individual participation",
+            "Participants have to perform for the give tune",
+            "No vulnerability should be there in there performance",
+            "Judgement will be based on the choreography,energy and attire of ur performance",
+            "Judges decision is final"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "Hemanth - 73389 97654"
+          ]
+        },
+        {
+          "Venue": [
+            "OAT"
+          ]
+        }
+      ]
+    },
+    "Chess": {
+      "name": "Chess",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "the touch move rule is followed",
+            "understand 50 move draw rule",
+            "game can be climb drawn after 50 moves if there is no pawn moves or no captures",
+            "understand 3 fold reputation rule",
+            "the game can be climbed draw if the same exact position is repeated thrice",
+            "no outside assistance during the game",
+            "in case of any confusion/disputes talk to the tournament organisation"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "Srivatsan - 8838595916"
+          ]
+        },
+        {
+          "Venue": [
+            "Lab - (Non AC)"
+          ]
+        }
+      ]
+    },
+    "Carrom": {
+      "name": "Carrom",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "2 members per team",
+            "Matches will be in knockout based on points",
+            "Time duration will be alloted",
+            "Refree decisions is final",
+            "No vulnerability during the entire game "
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "Naveen Ks - 82204 60256",
+            "Naveen R - 89392 54620"
+          ]
+        },
+        {
+          "Venue": [
+            "Lab-(Non AC)"
+          ]
+        }
+      ]
+    },
+    "Smack Down": {
+      "name": "Smack Down",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "2 players per team",
+            "Matches will be in knock out",
+            "Elimination will based on teams getting first blood",
+            "No vulgarity allowed during matches ",
+            "Refree decisions will be final"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "abishek - 75500 41964",
+            "Ashik - 90031 82171"
+          ]
+        },
+        {
+          "Venue": [
+            "Class 1"
+          ]
+        }
+      ]
+    },
+    "Anime Quiz": {
+      "name": "Anime Quiz",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "2 members per team",
+            "Different rounds will there on anime content",
+            "Each rounds have elimination",
+            "Judges decision is final",
+            "No outside assistance"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "Arun kumar - 96772 46151"
+          ]
+        },
+        {
+          "Venue": [
+            "Class 2"
+          ]
+        }
+      ]
+    },
+    "Solo Singing": {
+      "name": "Solo Singing",
+      "subline": "Game",
+      "desc": [],
+      "contents": [
+        {
+          "Rules": [
+            "This is an Individual event.",
+            "Participants are allowed to sing in any language.",
+            "Participant will ge given 3  minutes time for singing",
+            "Any form of vulgarity will lead to disqualification.",
+            "Decision of the Judges will be final"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "Keerthi Priya - 79043 59741"
+          ]
+        },
+        {
+          "Venue": [
+            "Hi-tech Hall 2"
           ]
         }
       ]
     }
+    
   },
   "OnlineEvents": {
     "Photography": {
