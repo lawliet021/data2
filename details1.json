@@ -220,44 +220,51 @@
           "Rounds": []
         },
         {
+          "Entry fee": ["250"]
+        },
+        {
           "Incharge": [
             "Nithish - 7305518114",
             "saravanan - 7871935518"
           ]
         },
+        
         {
           "Venue": [
-            "LH1201, Second Floor, Main Block"
+            "Ground 1"
           ]
         }
       ]
     },
-    "Shoot the Bug": {
-      "name": "Shoot the Bug",
+    "Futsal": {
+      "name": "Futsal",
       "subline": "Game",
-      "desc": [],
+      "desc": ["A 3's football match of duration 4 mins per half where any team can participate with 2 rolling substitutes and the fixtures will be based on the number of teams registered."],
       "contents": [
         {
           "Rules": [
-            "Bring your own device with proper internet connection.",
-            "Refund of the registration fee will not be entertained strictly.",
-            "Fixtures based on number of entries."
+            "Team length-4+1(rolling substitutes)",
+            "Time : 3-3",
+            "The referee’s decision is final",
+            "Refund of the registration fee will not be entertained strictly",
+            "Fixtures based on number of entries.",
+            "The organizing committee has full authority to revise the rules of the game"
           ]
         },
         {
           "Rounds": [
-            "First place vs Second place from round 1.",
-            "Third place vs Fourth place from round 1."
+            
           ]
         },
         {
           "Incharge": [
-            "Siddhtarth - 7299990709"
+            "Deepan - 9940455973",
+            "Kiruba - 9344215295"
           ]
         },
         {
           "Venue": [
-            "LH1301, Third Floor, Main Block"
+            "Ground 2"
           ]
         }
       ]
