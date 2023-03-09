@@ -210,8 +210,8 @@
         }
       ]
     },
-    "techtangle": {
-      "name": "techtangle",
+    "Techtangle": {
+      "name": "Techtangle",
       "subline": "quiz",
       "desc": [
         "This would be a buzzer based event. A couple of pictures will be displayed on a projector.",
