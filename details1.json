@@ -23,19 +23,27 @@
         },
         {
           "Incharge": [
-            "Janani - 8144171965"
+            "Harish - 97909 09162"
           ]
         },
         {
           "Venue": [
-            "Computer Center - III Software Engineering Lab, Third Floor, Main Block"
+            " Lab 1 (AC)"
+          ]
+        },
+        {
+          "Entry Fee":["₹50"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href='#'>here</a> to register"
           ]
         }
       ]
     },
-    "Codezilla": {
-      "name": "Codezilla",
-      "subline": "DEBUGGING",
+    "CodePirates": {
+      "name": "CodePirates",
+      "subline": "coding event",
       "desc": [
         "This coding event is of 3 hours and divided into 2 rounds.",
         " First round will be a simple programming round.",
@@ -47,6 +55,7 @@
             "This coding event is of 3 hours and divided into 2 rounds.",
             " First round will be a simple programming round.",
             " Second round will be of reverse coding round.",
+            "Tie breaker round will be conducted if required.",
             " Judges decision will be final.",
             " Malpractices will not be entertained. If found any, he/she will be disqualified from the event."
           ]
@@ -56,12 +65,20 @@
         },
         {
           "Incharge": [
-            "Pritham ganesh - 9003915907"
+            "Navanit Krish - 98403 82504"
           ]
         },
         {
           "Venue": [
-            "Computer Center - II Database Laboratory, Third Floor, Main Block"
+            "Lab 2 (AC)"
+          ]
+        },
+        {
+          "Entry Fee":["₹50"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href=''>here</a> to register"
           ]
         }
       ]
@@ -87,18 +104,26 @@
         },
         {
           "Incharge": [
-            "Ilakkiya - 9962707727"
+            "Ashik - 90031 82171"
           ]
         },
         {
           "Venue": [
-            "LH1203, Second Floor, Main Block"
+            "Class 3"
+          ]
+        },
+        {
+          "Entry Fee": ["₹50"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href='#'>here</a> to register"
           ]
         }
       ]
     },
-    "iDesign": {
-      "name": "iDesign",
+    "Design showdown": {
+      "name": "Design showdown",
       "subline": "UI/UX Design",
       "desc": [
         "This is an individual event which takes place for 1.5 hours.",
@@ -122,16 +147,24 @@
         },
         {
           "Incharge": [
-            "Vijaykumar - 7200041019"
+            "Jemima - 94443 81968"
           ]
         },
         {
           "Venue": [
-            "LH1202, Second Floor, Main Block"
+            "Class 4"
+          ]
+        },
+        {
+          "Entry Fee":["₹50"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href='#'>here</a> to register"
           ]
         }
       ]
-    },
+    }, 
     "Shark Tank": {
       "name": "Shark Tank",
       "subline": "Buisness",
@@ -144,9 +177,10 @@
             "A team can have a maximum of 5 students.",
             "Team can bring their prototypes, if any.",
             "Create a pitch deck with your ideas and upload the following documents.",
+            "Each Team will have ten minutes to present their ideas",
             "Copying an idea is strictly prohibited and disqualifies you.",
-            "Copying an idea is strictly prohibited.",
-            "The jury's decision is final."
+            "The jury's decision is final.",
+            "The award will be based on the innovativeness and feasibility of the presented idea."
           ]
         },
         {
@@ -157,18 +191,27 @@
         },
         {
           "Incharge": [
-            "Gavin Gladston - 7691921495"
+            "Reshma - 99406 44998",
+            "Swetha -86101 17327"
           ]
         },
         {
           "Venue": [
-            "TRP Auditorium"
+            "Hi-tech Hall 2"
+          ]
+        },
+        {
+          "Entry Fee" : ["₹50"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href='#'>here</a> to register"
           ]
         }
       ]
     },
-    "Connexus": {
-      "name": "Connexus",
+    "techtangle": {
+      "name": "techtangle",
       "subline": "quiz",
       "desc": [
         "This would be a buzzer based event. A couple of pictures will be displayed on a projector.",
@@ -187,12 +230,57 @@
         },
         {
           "Incharge": [
-            "Afra thahseen - 8680818184"
+            "Jyothsna - 63798 13866"
           ]
         },
         {
           "Venue": [
-            "LH1302, Third Floor, Main Block"
+            "Class 5"
+          ]
+        },
+        {
+          "Entry Fee": ["₹50"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href=''>here</a> to register"
+          ]
+        }
+      ]
+    },
+    "Catch me Mr.": {
+      "name": "Catch me Mr.",
+      "subline": "",
+      "desc": [
+      ],
+      "contents": [
+        {
+          "Rules": [
+            "The participants will have 2 minutes time for preparation and 3 minutes on stage",
+            "They will be given 3  minutes to convince the judge as to why they should get the job",
+            "Jobs on which they have to perform will be given on spot"
+          ]
+        },
+        {
+          "Rounds": []
+        },
+        {
+          "Incharge": [
+            "Yamini - 80561 06779",
+            "Poornima - 94443 10267"
+          ]
+        },
+        {
+          "Venue": [
+            "Class 6"
+          ]
+        },
+        {
+          "Entry Fee": ["₹50"]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href=''>here</a> to register"
           ]
         }
       ]
@@ -586,12 +674,15 @@
         },
         {
           "Incharge": [
-            "Dani - 6381263343"
+            "Kirubakaran - 93841 04799"
           ]
         },
         {
+          "Entry Fee" : ["₹30"]
+        },
+        {
           "Registration": [
-            "click <a style='all: revert;'href='https://tinyurl.com/yv4autb5'>here</a> to register"
+            "click <a style='all: revert;'href='#'>here</a> to register"
           ]
         }
       ]
@@ -614,7 +705,7 @@
         },
         {
           "Incharge": [
-            "Sivaramkumar - 7397402053"
+            "Akash V - 98409 45127"
           ]
         },
         {
@@ -647,17 +738,17 @@
           ]
         },
         {
-          "Contact": []
+          "Entry Fee" : ["₹200"]
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://tinyurl.com/4j35ckbc'>here</a> to register"
+            "click <a style='all: revert;'href='#'>here</a> to register"
           ]
         }
       ]
     },
-    "Solo singing": {
-      "name": "Solo singing",
+    "Reels Contest": {
+      "name": "Reels Contest",
       "subline": "skill",
       "desc": [
         "This is an individual contest. There is no language barrier. It's your platform to sing your hearts out .",
@@ -679,12 +770,15 @@
         },
         {
           "Incharge": [
-            "Bhargavi - 8939909567"
+            "Gopinath - 88385 09630"
           ]
         },
         {
+          "Entry Fee" : ["₹30"]
+        },
+        {
           "Registration": [
-            "click <a style='all: revert;'href='https://tinyurl.com/mu8bv8bv'>here</a> to register"
+            "click <a style='all: revert;'href=''>here</a> to register"
           ]
         }
       ]
@@ -710,12 +804,15 @@
         },
         {
           "Incharge": [
-            "Rohit Amrose - 9360209960"
+            "Barath Kumar - 63853 80500"
           ]
         },
         {
+          "Entry Fee" : ["₹30"]
+        },
+        {
           "Registration": [
-            "click <a style='all: revert;'href='https://tinyurl.com/433ts9ck'>here</a> to register"
+            "click <a style='all: revert;'href='#'>here</a> to register"
           ]
         }
       ]
