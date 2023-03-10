@@ -423,6 +423,11 @@
           "Venue": [
             ""
           ]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href=''>here</a> to register"
+          ]
         }
       ]
     },
@@ -454,6 +459,11 @@
           "Venue": [
             "OAT"
           ]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href=''>here</a> to register"
+          ]
         }
       ]
     },
@@ -484,6 +494,11 @@
         {
           "Venue": [
             "Trp"
+          ]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href=''>here</a> to register"
           ]
         }
       ]
@@ -585,6 +600,11 @@
           "Venue": [
             "Lab-(Non AC)"
           ]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href=''>here</a> to register"
+          ]
         }
       ]
     },
@@ -615,6 +635,11 @@
           "Venue": [
             "Class 1"
           ]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href=''>here</a> to register"
+          ]
         }
       ]
     },
@@ -643,6 +668,11 @@
         {
           "Venue": [
             "Class 2"
+          ]
+        },
+        {
+          "Registration": [
+            "click <a style='all: revert;'href=''>here</a> to register"
           ]
         }
       ]
